@@ -1,0 +1,6 @@
+{
+  "name": "DocShare",
+  "description": "Document Upload & Download Platform with QR-based sharing and multi-cloud storage provider adapters (Google Drive, OneDrive, S3, Dropbox, WebDAV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
